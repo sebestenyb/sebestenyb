@@ -3,4 +3,9 @@
 **Results-oriented Software Developer** with 20 years of experience across the full software development lifecycle. Proven leadership in both agency and SaaS startup environments. Foster a collaborative and growth-oriented work ethic, with a passion for mentoring and knowledge sharing. Highly organised and analytical, with a demonstrated ability to quickly learn and adapt to new technologies.
 
 
-![My Skills](https://skillicons.dev/icons?theme=light&i=laravel,php,py,django,mysql,mongodb,elasticsearch,rabbitmq,redis,postgres,alpinejs,vuejs,pinia,react,aws,gcp,azure,git,github,bitbucket,css,bootstrap,bash,cypress,docker,graphql,nginx,nodejs,sentry,ts)
+![my_skills](https://skillicons.dev/icons?theme=light&i=laravel,php,py,django,mysql,mongodb,elasticsearch,rabbitmq,redis,postgres,alpinejs,vuejs,pinia,react,aws,gcp,azure,git,github,bitbucket,css,bootstrap,bash,cypress,docker,graphql,nginx,nodejs,sentry,ts)
+
+
+
+
+[![my_cv](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjYuNjI1MDQwMDU0MzIxMjkiIGhlaWdodD0iMzUiIHZpZXdCb3g9IjAgMCAxMjYuNjI1MDQwMDU0MzIxMjkgMzUiPjxyZWN0IHdpZHRoPSI4NS45Njg3ODA1MTc1NzgxMiIgaGVpZ2h0PSIzNSIgZmlsbD0iI2JkMTBlMCIvPjxyZWN0IHg9Ijg1Ljk2ODc4MDUxNzU3ODEyIiB3aWR0aD0iNDAuNjU2MjU5NTM2NzQzMTY0IiBoZWlnaHQ9IjM1IiBmaWxsPSIjOTAxM2ZlIi8+PHRleHQgeD0iNDIuOTg0MzkwMjU4Nzg5MDYiIHk9IjIxLjUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtZmFtaWx5PSInUm9ib3RvJywgc2Fucy1zZXJpZiIgZmlsbD0iI0ZGRkZGRiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjIiPlZJRVcgTVk8L3RleHQ+PHRleHQgeD0iMTA2LjI5NjkxMDI4NTk0OTciIHk9IjIxLjUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtZmFtaWx5PSInTW9udHNlcnJhdCcsIHNhbnMtc2VyaWYiIGZpbGw9IiNGRkZGRkYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtd2VpZ2h0PSI5MDAiIGxldHRlci1zcGFjaW5nPSIyIj5DVjwvdGV4dD48L3N2Zz4=)](https://resume.io/r/AxNfgXLZk)
