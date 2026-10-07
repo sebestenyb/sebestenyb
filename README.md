@@ -8,4 +8,5 @@
 
 
 
-[![my_cv](./view-my-cv.svg)](https://resume.io/r/AxNfgXLZk)
+[![Static Badge](https://img.shields.io/badge/VIEW_MY-CV-purple?style=for-the-badge)](https://resume.io/r/AxNfgXLZk)
+[![Static Badge](https://img.shields.io/badge/VISIT_MY-SITE-red?style=for-the-badge)](https://balazs.sebesteny.com)
